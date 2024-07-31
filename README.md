@@ -7,7 +7,8 @@ Analyze hypergeometric distributions and compare them using chi-square tests. Fe
 2. **Sample Generation**: Simulate samples using two different methods: the Bernoulli method and the inverse transform method.
 3.**Histogram Visualization**: Display histogram against theoretical distribution, chi-square value, degrees of freedom (d.f.), and significance level (p-level).
 4. **p-Level Sampling**: Generate samples of p-levels by setting distribution parameters for both the model and the hypothesis, and specify the number of repetitions. Calculates true significance level or test power based on hypothesis parameters.
-5. **Empirical Distribution Function****: Plot the empirical distribution function of p-levels against the theoretical uniform distribution.
+5. **Empirical Distribution Function**: Plot the empirical distribution function of p-levels against the theoretical uniform distribution.
+6. **Power Analysis** Plotted power vs. sample size graphs for given significance levels and alternatives.
 
 ### Usage
 
